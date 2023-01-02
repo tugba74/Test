@@ -18,13 +18,9 @@ public class C01_ElvedaMainMethod {
         System.out.println("test02 calisti");
         // @Ignore notasyonu yazildigi test method'unun calistirilmamasini saglar //
     }
-
-
     @Test
     public void test03(){
         System.out.println("test03 calisti");
-
-
     }
 }
 
